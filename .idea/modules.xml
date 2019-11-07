@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaDesignPatternsFor23.iml" filepath="$PROJECT_DIR$/JavaDesignPatternsFor23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-singleton-pattern/java-singleton-pattern.iml" filepath="$PROJECT_DIR$/java-singleton-pattern/java-singleton-pattern.iml" />
     </modules>
   </component>
 </project>
